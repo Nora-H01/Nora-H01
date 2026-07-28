@@ -2,8 +2,7 @@
 
 📍 Sambreville, Belgique  
 🔗 [LinkedIn](https://www.linkedin.com/in/norahashani)
-[📄 Voir mon CV](./Nora Hashani - CV.pdf)
-
+📄 [Voir mon CV](./Nora%20Hashani%20-%20CV.pdf)
 ---
 
 ## 💻 Compétences techniques & logiciels
